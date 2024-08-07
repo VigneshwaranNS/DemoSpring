@@ -70,3 +70,20 @@
 // In the comparison area:battleResult method 
 // if block compare with opponent that time opponent units will be doubled and comparing :: 
 // that time the positive result will goes to negative :: so Im updated the code.
+
+// Before Code Change Result:
+
+// Militia#50 - Possible Wins: 0
+// Spearmen#40 - Possible Wins: 0
+// LightCavalry#30 - Possible Wins: 0
+// HeavyCavalry#20 - Possible Wins: 0
+// CavalryArcher#10 - Possible Wins: 0
+
+// After Code Change result:
+
+// Spearmen#40 - Possible Wins: 1
+// Militia#50 - Possible Wins: 0
+// LightCavalry#30 - Possible Wins: 0
+// HeavyCavalry#20 - Possible Wins: 0
+// CavalryArcher#10 - Possible Wins: 0
+
